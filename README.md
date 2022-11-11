@@ -9,3 +9,20 @@ Termux
 
 Commands:
 
+pkg update && pkg upgrade
+
+pkg install python git -y
+
+git clone https://github.com/Seven7Security/IPLoc4tor.git
+
+cd IPLoc4tor
+
+python iploc4tor.py
+
+Copyright
+
+Hello myname is Tom
+
+I'm python programmers
+
+And I'm from Indonesia
